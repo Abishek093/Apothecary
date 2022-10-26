@@ -10,11 +10,14 @@
     <section class="main">
         <nav>
             <a href="#" class="logo">
-               <img src="images/Appotheryshort.png">    
+               <img src="images/logoA.png" width = "120" height = "95">    
              </a>
 
              <ul class="Menu">
-                <li><a href="#">Home
+                <li><a href="#" class="active">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Contact</a></li>
+                <li><a href="#">Login</a></li>
         </nav>
     </sectin>
 </body>
