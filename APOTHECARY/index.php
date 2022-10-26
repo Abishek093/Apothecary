@@ -19,6 +19,6 @@
                 <li><a href="#">Contact</a></li>
                 <li><a href="#">Login</a></li>
         </nav>
-    </sectin>
+    </section>
 </body>
 </html> 
